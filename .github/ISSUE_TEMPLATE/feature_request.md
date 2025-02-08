@@ -1,16 +1,20 @@
 ---
 name: Feature request
-about: Request a new feature to be added
-title: ''
-labels: enhancement
-assignees: K4YT3X
+about: Request a feature to be added or suggest an idea
+title: "<Feature summary>"
+labels: type:Enhancement
+assignees: ''
 
 ---
 
-## Description
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-Briefly describe the feature that you'd like Video2X to have.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## Sources
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-Paste links to descriptions of related documentations, websites and etc. here.
+**Additional context**
+Add any other context or screenshots about the feature request here.
